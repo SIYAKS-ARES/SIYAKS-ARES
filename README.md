@@ -14,7 +14,7 @@
 - 🤖 Passionate about **Artificial Intelligence** and **Data Science**, currently improving through academies & projects  
 - 🛠 Actively working in **Teknofest R&D Committee** – improving leadership and communication  
 - 🚀 Open to collaboration on AI/Data projects, social impact platforms, and mobile apps  
-- 📫 Reach me at: **mehmetsaid.huseyinoglu@gmail.com**
+- 📫 Reach me at: **msaidhuseyinoglu@gmail.com**
 
 ---
 
