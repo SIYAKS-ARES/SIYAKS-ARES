@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Said Hüseyinoğlu</h1>
-<h3 align="center">Software Engineering Student | Data Science & AI Enthusiast</h3>
+<h3 align="center">Software Engineering Student | Data Scientist & AI Specialist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Learning+AI+%26+Data+Science;Building+Real+World+Projects;Lifelong+Learner+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
