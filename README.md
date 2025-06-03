@@ -12,7 +12,7 @@
 
 ---
 
-### 👨‍🎓 About Me
+###  About Me
 
 - 🎓 3rd-year **Software Engineering** student at Fırat University  
 - 🌍 Studied in **Poland** with Erasmus Program — developed academic & cultural skills  
