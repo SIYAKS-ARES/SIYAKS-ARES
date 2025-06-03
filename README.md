@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SIYAKS-ARES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
