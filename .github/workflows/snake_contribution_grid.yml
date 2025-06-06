@@ -2,37 +2,58 @@ name: Generate Snake Contribution Grid
 
 on:
   schedule:
-    # Her 6 saatte bir çalışır
+    # Her 6 saatte bir çalışır (isterseniz zamanlamayı değiştirebilirsiniz)
+    # Örneğin, "0 0 * * *" her gün gece yarısı çalışır.
     - cron: "0 */6 * * *"
-  workflow_dispatch: # Manuel olarak tetikleme imkanı
+  workflow_dispatch: # GitHub Actions arayüzünden manuel olarak tetikleme imkanı
+
+# Workflow'un deponuza yazma (push) iznine sahip olması için bu bölüm eklendi.
+permissions:
+  contents: write
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest # Action'ın çalışacağı sanal makine işletim sistemi
     steps:
-      - uses: actions/checkout@v3
+      # 1. Adım: Deponuzun içeriğini (kodları) sanal makineye kopyalar.
+      # Bu, workflow'un deponuzdaki diğer dosyalara erişebilmesi için gereklidir.
+      - name: Depoyu Kopyala (Checkout Repository)
+        uses: actions/checkout@v3 # Popüler bir GitHub Action
 
-      - uses: Platane/snk@v3 # veya en güncel sürümü kullanın
-        id: snake # Adım için bir id veriyoruz ki çıktılarını kullanabilelim
+      # 2. Adım: Yılan animasyonunu oluşturan asıl action.
+      - name: Yılan Animasyonunu Oluştur (Generate Snake Animation)
+        uses: Platane/snk@v3 # Yılan animasyonunu oluşturan action (sürümü kontrol edin, v3 güncel olabilir)
+        id: snake # Bu adıma bir ID veriyoruz, ileride çıktılarını kullanmak için değil ama loglarda ayırt edici olur.
         with:
-          github_user_name: SIYAKS-ARES # Otomatik olarak sizin kullanıcı adınızı alır
-          # Alternatif olarak doğrudan kullanıcı adınızı yazabilirsiniz:
-          # github_user_name: SIYAKS-ARES
+          # GitHub kullanıcı adınız. ${{ github.repository_owner }} de kullanılabilir
+          # ama doğrudan yazmak daha garantili olabilir.
+          github_user_name: SIYAKS-ARES
 
-          # Çıktı dosyasının adı ve formatı
+          # Oluşturulacak SVG ve GIF dosyalarının yolları ve stilleri.
+          # 'dist/' klasörüne oluşturulacaklar.
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        # Platane/snk action'ı genellikle GITHUB_TOKEN'ı kendisi bulur ve kullanır,
+        # bu yüzden burada ayrıca 'with:' altında GITHUB_TOKEN belirtmeye genellikle gerek yoktur.
 
-          # Token: Gerekli izinlere sahip bir token (genellikle varsayılan GITHUB_TOKEN yeterlidir)
-          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Özel bir token gerekmiyorsa bu satır olmayabilir
-
-    # Oluşturulan dosyaları depoya geri yükleme (opsiyonel, ama genellikle yapılır)
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      # 3. Adım: Oluşturulan dosyaları (animasyonları) deponuza geri gönderir (pushlar).
+      - name: Oluşturulan Animasyonu Depoya Gönder (Push Animation to Repository)
+        uses: ad-m/github-push-action@master # Dosyaları depoya pushlamak için kullanılan bir action
         with:
+          # Değişiklikleri yapabilmek için GITHUB_TOKEN gereklidir.
+          # Bu token, workflow'a otomatik olarak sağlanır.
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main # veya hangi branch'e yüklemek istiyorsanız
-          force: true # Eğer dosya varsa üzerine yazmak için
-          directory: dist # 'outputs' ile belirttiğiniz klasörü işaret etmeli
+
+          # Dosyaların hangi branch'e gönderileceği.
+          # Profil README'niz genellikle 'main' (veya 'master') branch'indedir.
+          branch: main
+
+          # Eğer hedef branch'te aynı isimde dosyalar varsa, üzerine yazılmasını zorlar.
+          # Otomatik oluşturulan dosyalar için bu genellikle istenir.
+          force: true
+
+          # Hangi klasörün içeriğinin pushlanacağı.
+          # Platane/snk action'ı çıktılarını 'dist/' klasörüne koyduğu için burası 'dist' olmalı.
+          directory: dist
