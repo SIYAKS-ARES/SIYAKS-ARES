@@ -25,23 +25,19 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # YENİ EKLENEN ADIM: 'dist' klasörünün içeriğini listele
       - name: "'dist' Klasörünün İçeriğini Kontrol Et"
         run: ls -R dist
 
-      - name: Oluşturulan Animasyonu Depoya Gönder (Push Animation to Repository)
-        uses: ad-m/github-push-action@master
+      # YENİ PUSH ADIMI: stefanzweifel/git-auto-commit-action kullanılıyor
+      - name: Değişiklikleri Commit Et ve Depoya Gönder
+        uses: stefanzweifel/git-auto-commit-action@v5 # En güncel sürümü kontrol edin (v5 olabilir)
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true # Bu genellikle gerekli ama bazen sorun yaratabilir, bir sonraki adımda false deneyebiliriz
-          directory: dist
-          # YENİ EKLENEN PARAMETRELER:
-          message: "docs: update contribution snake animation 🐍" # Commit mesajı
-          add: "./*" # 'dist' klasöründeki tüm dosyaları ekle (directory ile birlikte gereksiz olabilir ama deneyelim)
-          # Alternatif olarak `add` yerine veya `add` ile birlikte:
-          # files: |
-          #  dist/github-contribution-grid-snake.svg
-          #  dist/github-contribution-grid-snake-dark.svg
-          #  dist/ocean.gif
-          # Yukarıdaki `files` parametresi yerine `directory: dist` ve `add: "./*"` daha genel olmalı.
+          commit_message: "docs: update contribution snake animation 🐍"
+          # Bu action varsayılan olarak tüm yeni ve değiştirilmiş dosyaları commit eder.
+          # Sadece belirli dosyaları veya klasörleri isterseniz 'file_pattern' kullanabilirsiniz.
+          # 'dist' klasöründeki her şeyi almak için:
+          file_pattern: dist/*.* # Veya sadece SVG'ler için dist/*.svg
+          # branch: main # Varsayılan olarak mevcut branch'e (main) pushlar.
+          # commit_user_name: GitHub Actions # Varsayılan
+          # commit_user_email: actions@github.com # Varsayılan
+          # commit_author: ${{ github.actor }} <${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com> # Varsayılan
