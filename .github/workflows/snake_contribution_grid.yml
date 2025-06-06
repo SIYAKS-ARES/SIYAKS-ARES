@@ -1,0 +1,38 @@
+name: Generate Snake Contribution Grid
+
+on:
+  schedule:
+    # Her 6 saatte bir çalışır
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # Manuel olarak tetikleme imkanı
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3 # veya en güncel sürümü kullanın
+        id: snake # Adım için bir id veriyoruz ki çıktılarını kullanabilelim
+        with:
+          github_user_name: SIYAKS-ARES # Otomatik olarak sizin kullanıcı adınızı alır
+          # Alternatif olarak doğrudan kullanıcı adınızı yazabilirsiniz:
+          # github_user_name: SIYAKS-ARES
+
+          # Çıktı dosyasının adı ve formatı
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+          # Token: Gerekli izinlere sahip bir token (genellikle varsayılan GITHUB_TOKEN yeterlidir)
+          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Özel bir token gerekmiyorsa bu satır olmayabilir
+
+    # Oluşturulan dosyaları depoya geri yükleme (opsiyonel, ama genellikle yapılır)
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main # veya hangi branch'e yüklemek istiyorsanız
+          force: true # Eğer dosya varsa üzerine yazmak için
+          directory: dist # 'outputs' ile belirttiğiniz klasörü işaret etmeli

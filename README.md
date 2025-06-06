@@ -107,7 +107,7 @@ _Mobile app to help users manage personal routines, habits, and self-care (Flutt
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/SIYAKS-ARES/SIYAKS-ARES/main/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
