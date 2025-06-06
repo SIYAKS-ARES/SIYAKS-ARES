@@ -15,10 +15,10 @@
 ###  About Me
 
 - 🎓 3rd-year **Software Engineering** student at Fırat University  
-- 🌍 Studied in **Poland** with Erasmus Program — developed academic & cultural skills  
-- 🤖 Passionate about **Artificial Intelligence** and **Data Science**, currently improving through academies & projects  
+- 🌍 Studied in **Poland** with Erasmus+ Program — developed academic & cultural skills  
+- 🤖 Passionate about **Artificial Intelligence** and **Data Science**, currently improving through academies, projects & internships
 - 🛠 Actively working in **Teknofest R&D Committee** – improving leadership and communication  
-- 🚀 Open to collaboration on AI/Data projects, social impact platforms, and mobile apps  
+- 🚀 Open to collaboration on AI/Data projects, social impact platforms 
 - 📫 Reach me at: **msaidhuseyinoglu@gmail.com**
 
 ---
@@ -31,7 +31,7 @@
 
 **Languages & Frameworks:** `Python` `C#` `Java` `Flutter` `Firebase` `HTML` `CSS` `JavaScript` `Node.js`  
 **Data & AI:** `Data Cleaning` `Data Visualization` `Machine Learning` `NLP` `Jupyter Notebook`  
-**Tools & Methods:** `MongoDB` `Git` `MVC Pattern` `Project Management` `Team Leadership` `Agile` `Scrum`
+**Tools & Methods:** `MongoDB` `Docker` `PostgreSQL` `Git` `MVC Pattern` `Project Management` `Team Leadership` `Agile` `Scrum`
 
 ---
 
