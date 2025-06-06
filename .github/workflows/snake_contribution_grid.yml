@@ -2,58 +2,46 @@ name: Generate Snake Contribution Grid
 
 on:
   schedule:
-    # Her 6 saatte bir çalışır (isterseniz zamanlamayı değiştirebilirsiniz)
-    # Örneğin, "0 0 * * *" her gün gece yarısı çalışır.
     - cron: "0 */6 * * *"
-  workflow_dispatch: # GitHub Actions arayüzünden manuel olarak tetikleme imkanı
+  workflow_dispatch:
 
-# Workflow'un deponuza yazma (push) iznine sahip olması için bu bölüm eklendi.
 permissions:
   contents: write
 
 jobs:
   build:
-    runs-on: ubuntu-latest # Action'ın çalışacağı sanal makine işletim sistemi
+    runs-on: ubuntu-latest
     steps:
-      # 1. Adım: Deponuzun içeriğini (kodları) sanal makineye kopyalar.
-      # Bu, workflow'un deponuzdaki diğer dosyalara erişebilmesi için gereklidir.
       - name: Depoyu Kopyala (Checkout Repository)
-        uses: actions/checkout@v3 # Popüler bir GitHub Action
+        uses: actions/checkout@v3
 
-      # 2. Adım: Yılan animasyonunu oluşturan asıl action.
       - name: Yılan Animasyonunu Oluştur (Generate Snake Animation)
-        uses: Platane/snk@v3 # Yılan animasyonunu oluşturan action (sürümü kontrol edin, v3 güncel olabilir)
-        id: snake # Bu adıma bir ID veriyoruz, ileride çıktılarını kullanmak için değil ama loglarda ayırt edici olur.
+        uses: Platane/snk@v3
+        id: snake
         with:
-          # GitHub kullanıcı adınız. ${{ github.repository_owner }} de kullanılabilir
-          # ama doğrudan yazmak daha garantili olabilir.
           github_user_name: SIYAKS-ARES
-
-          # Oluşturulacak SVG ve GIF dosyalarının yolları ve stilleri.
-          # 'dist/' klasörüne oluşturulacaklar.
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        # Platane/snk action'ı genellikle GITHUB_TOKEN'ı kendisi bulur ve kullanır,
-        # bu yüzden burada ayrıca 'with:' altında GITHUB_TOKEN belirtmeye genellikle gerek yoktur.
 
-      # 3. Adım: Oluşturulan dosyaları (animasyonları) deponuza geri gönderir (pushlar).
+      # YENİ EKLENEN ADIM: 'dist' klasörünün içeriğini listele
+      - name: "'dist' Klasörünün İçeriğini Kontrol Et"
+        run: ls -R dist
+
       - name: Oluşturulan Animasyonu Depoya Gönder (Push Animation to Repository)
-        uses: ad-m/github-push-action@master # Dosyaları depoya pushlamak için kullanılan bir action
+        uses: ad-m/github-push-action@master
         with:
-          # Değişiklikleri yapabilmek için GITHUB_TOKEN gereklidir.
-          # Bu token, workflow'a otomatik olarak sağlanır.
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Dosyaların hangi branch'e gönderileceği.
-          # Profil README'niz genellikle 'main' (veya 'master') branch'indedir.
           branch: main
-
-          # Eğer hedef branch'te aynı isimde dosyalar varsa, üzerine yazılmasını zorlar.
-          # Otomatik oluşturulan dosyalar için bu genellikle istenir.
-          force: true
-
-          # Hangi klasörün içeriğinin pushlanacağı.
-          # Platane/snk action'ı çıktılarını 'dist/' klasörüne koyduğu için burası 'dist' olmalı.
+          force: true # Bu genellikle gerekli ama bazen sorun yaratabilir, bir sonraki adımda false deneyebiliriz
           directory: dist
+          # YENİ EKLENEN PARAMETRELER:
+          message: "docs: update contribution snake animation 🐍" # Commit mesajı
+          add: "./*" # 'dist' klasöründeki tüm dosyaları ekle (directory ile birlikte gereksiz olabilir ama deneyelim)
+          # Alternatif olarak `add` yerine veya `add` ile birlikte:
+          # files: |
+          #  dist/github-contribution-grid-snake.svg
+          #  dist/github-contribution-grid-snake-dark.svg
+          #  dist/ocean.gif
+          # Yukarıdaki `files` parametresi yerine `directory: dist` ve `add: "./*"` daha genel olmalı.
