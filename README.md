@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Mehmet Said Hüseyinoğlu</h1>
+<h1 align="center">Hello , I'm Mehmet Said Hüseyinoğlu</h1>
 
 <h3 align="center">Software Engineering Student | Data Scientist & AI Specialist</h3>
 
