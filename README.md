@@ -77,6 +77,12 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/SIYAKS-ARES">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SIYAKS-ARES&theme=tokyonight" alt="GitHub Profile Summary"/>
+  </a>
+</div>
+
 ---
 
 ### GitHub Metrics
@@ -122,6 +128,12 @@
 ### 📈 Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIYAKS-ARES&theme=react-dark&bg_color=20232a&hide_border=true&line=58a6ff&point=58a6ff&color=58a6ff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <a href="https://github.com/SIYAKS-ARES">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SIYAKS-ARES&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  </a>
+</div>
 
 ---
 
