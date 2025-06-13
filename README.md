@@ -35,27 +35,62 @@
 
 ---
 
+---
+
 ### GitHub Stats
 
 <div align="center">
 
-  <!-- All stats cards are now in a single row for a compact and clean look -->
+  <!-- Top Languages Card (Slightly larger for better readability) -->
+  <a href="https://github.com/SIYAKS-ARES">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAKS-ARES&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=636" alt="Top Languages"/>
+  </a>
+  
+  <br><br> <!-- Vertical space between cards -->
+  
+  <!-- Bottom Row: General Stats and Streak Stats -->
   <table>
-    <tr valign="top">
+    <tr>
       <!-- General GitHub Stats -->
-      <td>
+      <td valign="top">
         <a href="https://github.com/SIYAKS-ARES">
           <img src="https://github-readme-stats.vercel.app/api?username=SIYAKS-ARES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
         </a>
       </td>
-      <!-- Top Languages Card -->
-      <td>
+      <!-- GitHub Streak Stats -->
+      <td valign="top">
         <a href="https://github.com/SIYAKS-ARES">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAKS-ARES&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+          <img src="https://streak-stats.demolab.com/?user=SIYAKS-ARES&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <!-- Top Languages Card (Maksimum boyut, boşluklar kapatılmış) -->
+  <a href="https://github.com/SIYAKS-ARES">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAKS-ARES&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&card_width=900&custom_title=Most%20Used%20Languages" alt="Top Languages" style="width: 100%; max-width: 900px;"/>
+  </a>
+  
+  <br><br> <!-- Vertical space between cards -->
+  
+  <!-- Bottom Row: General Stats and Streak Stats -->
+  <table>
+    <tr>
+      <!-- General GitHub Stats -->
+      <td valign="top">
+        <a href="https://github.com/SIYAKS-ARES">
+          <img src="https://github-readme-stats.vercel.app/api?username=SIYAKS-ARES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
         </a>
       </td>
       <!-- GitHub Streak Stats -->
-      <td>
+      <td valign="top">
         <a href="https://github.com/SIYAKS-ARES">
           <img src="https://streak-stats.demolab.com/?user=SIYAKS-ARES&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
         </a>
@@ -80,7 +115,6 @@
 </div>
 
 ---
-
 
 ### 🏆 GitHub Achievements
 
