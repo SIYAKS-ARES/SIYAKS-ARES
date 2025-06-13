@@ -39,24 +39,23 @@
 
 <div align="center">
 
-  <!-- Top Languages Card (Slightly larger for better readability) -->
-  <a href="https://github.com/SIYAKS-ARES">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAKS-ARES&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=636" alt="Top Languages"/>
-  </a>
-  
-  <br><br> <!-- Vertical space between cards -->
-  
-  <!-- Bottom Row: General Stats and Streak Stats -->
+  <!-- All stats cards are now in a single row for a compact and clean look -->
   <table>
-    <tr>
+    <tr valign="top">
       <!-- General GitHub Stats -->
-      <td valign="top">
+      <td>
         <a href="https://github.com/SIYAKS-ARES">
           <img src="https://github-readme-stats.vercel.app/api?username=SIYAKS-ARES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
         </a>
       </td>
+      <!-- Top Languages Card -->
+      <td>
+        <a href="https://github.com/SIYAKS-ARES">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAKS-ARES&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+        </a>
+      </td>
       <!-- GitHub Streak Stats -->
-      <td valign="top">
+      <td>
         <a href="https://github.com/SIYAKS-ARES">
           <img src="https://streak-stats.demolab.com/?user=SIYAKS-ARES&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
         </a>
