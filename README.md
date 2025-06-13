@@ -134,6 +134,32 @@
   
 </div>
 
+<div align="center">
+
+  <!-- 1. GitHub Metrics Paneli (Daha Hızlı Yüklenen Versiyon) -->
+  <!-- Not: Bu panelin ilk defa oluşturulması birkaç dakika sürebilir. Lütfen sabırla bekleyin. -->
+  <!-- Daha stabil çalışması için eklenti sayısını azalttım. -->
+  <a href="https://github.com/SIYAKS-ARES">
+    <img src="https://metrics.lecoq.io/SIYAKS-ARES?theme=tokyonight&hide_border=true&layout=compact&plugins=languages,isocalendar" alt="GitHub Metrics"/>
+  </a>
+  
+  <br><br> <!-- Paneller arası dikey boşluk -->
+
+  <!-- 2. WakaTime Haftalık Kodlama Süresi -->
+  <!--
+    ÖNEMLİ HATA DÜZELTME ADIMLARI:
+    1. https://wakatime.com/signup adresinden ÜCRETSİZ hesap oluşturun.
+    2. Kullandığınız kod editörüne (VS Code, JetBrains vb.) WakaTime eklentisini kurun.
+    3. Aşağıdaki `username=` parametresini KENDİ WAKATIME KULLANICI ADINIZ ile değiştirin.
+       (GitHub kullanıcı adınız ile aynı olmayabilir!)
+  -->
+  <a href="https://wakatime.com/@your_wakatime_username">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Kodlama Süresi"/>
+  </a>
+  
+</div>
+
+
 ---
 
 ### 🏆 GitHub Achievements
