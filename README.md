@@ -48,6 +48,42 @@
 
 ---
 
+### GitHub Stats
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+      <!-- Sol Sütun: Ana İstatistikler -->
+      <td valign="top">
+        <a href="https://github.com/SIYAKS-ARES">
+          <img 
+            src="https://github-readme-stats.vercel.app/api?username=SIYAKS-ARES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+            alt="Mehmet Said Hüseyinoğlu - GitHub Stats"
+          />
+        </a>
+      </td>
+      <!-- Sağ Sütun: Diller ve Katkı Serisi (Üst üste) -->
+      <td valign="top">
+        <a href="https://github.com/SIYAKS-ARES">
+          <img 
+            src="https://streak-stats.demolab.com/?user=SIYAKS-ARES&theme=tokyonight&hide_border=true" 
+            alt="Mehmet Said Hüseyinoğlu - GitHub Streak"
+          />
+        </a>
+        <br/>
+        <a href="https://github.com/SIYAKS-ARES">
+          <img 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAKS-ARES&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+            alt="Mehmet Said Hüseyinoğlu - Top Languages"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 🏆 GitHub Achievements
 
 <div align="center">
