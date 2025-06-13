@@ -35,16 +35,16 @@
 
 ---
 
-###  GitHub Stats
+ ### GitHub Stats
 
-<div align="center">
+ <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SIYAKS-ARES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SIYAKS-ARES&theme=tokyonight&hide_border=true" />
-</div>
+  <img width="48%" src="https://streak-stats.demolab.com/?user=SIYAKS-ARES&theme=tokyonight&hide_border=true" />
+ </div>
 
-<div align="center">
+ <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAKS-ARES&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+ </div>
 
 ---
 
