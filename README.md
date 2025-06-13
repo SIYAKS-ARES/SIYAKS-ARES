@@ -35,8 +35,6 @@
 
 ---
 
----
-
 ### GitHub Stats
 <div align="center">
   <!-- Top Languages Card (Maksimum boyut, boşluklar kapatılmış) -->
@@ -44,34 +42,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAKS-ARES&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&card_width=900&custom_title=Most%20Used%20Languages" alt="Top Languages" style="width: 100%; max-width: 900px;"/>
   </a>
   
-  
-  <!-- Bottom Row: General Stats and Streak Stats -->
-  <table>
-    <tr>
-      <!-- General GitHub Stats -->
-      <td valign="top">
-        <a href="https://github.com/SIYAKS-ARES">
-          <img src="https://github-readme-stats.vercel.app/api?username=SIYAKS-ARES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-        </a>
-      </td>
-      <!-- GitHub Streak Stats -->
-      <td valign="top">
-        <a href="https://github.com/SIYAKS-ARES">
-          <img src="https://streak-stats.demolab.com/?user=SIYAKS-ARES&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
-### GitHub Stats
-
-<div align="center">
-  <!-- Top Languages Card (Maksimum boyut, boşluklar kapatılmış) -->
-  <a href="https://github.com/SIYAKS-ARES">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAKS-ARES&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&card_width=900&custom_title=Most%20Used%20Languages" alt="Top Languages" style="width: 100%; max-width: 900px;"/>
-  </a>
   
   <!-- Bottom Row: General Stats and Streak Stats -->
   <table>
@@ -104,6 +74,38 @@
   -->
   <a href="https://github.com/SIYAKS-ARES">
     <img src="https://metrics.lecoq.io/SIYAKS-ARES?theme=tokyonight&hide_border=true&layout=compact&plugins=languages,isocalendar" alt="GitHub Metrics"/>
+  </a>
+</div>
+
+---
+
+### GitHub Metrics
+
+<!-- SEÇENEK 1: Daha basit parametrelerle -->
+<div align="center">
+  <a href="https://github.com/SIYAKS-ARES">
+    <img src="https://metrics.lecoq.io/SIYAKS-ARES?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FIstanbul" alt="GitHub Metrics"/>
+  </a>
+</div>
+
+<!-- SEÇENEK 2: Daha detaylı metrics -->
+<div align="center">
+  <a href="https://github.com/SIYAKS-ARES">
+    <img src="https://metrics.lecoq.io/SIYAKS-ARES?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&plugin.languages=yes&plugin.languages.sections=most-used&plugin.languages.indepth=false&plugin.languages.analysis.timeout=15&plugin.languages.analysis.timeout.repositories=7.5&plugin.languages.categories=markup%2C%20programming&plugin.languages.recent.categories=markup%2C%20programming&plugin.languages.recent.load=300&plugin.languages.recent.days=14&plugin.isocalendar=yes&plugin.isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul" alt="GitHub Metrics"/>
+  </a>
+</div>
+
+<!-- SEÇENEK 3: Alternatif metrics servisi -->
+<div align="center">
+  <a href="https://github.com/SIYAKS-ARES">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SIYAKS-ARES&theme=tokyonight" alt="GitHub Profile Summary"/>
+  </a>
+</div>
+
+<!-- SEÇENEK 4: Contribution Graph -->
+<div align="center">
+  <a href="https://github.com/SIYAKS-ARES">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SIYAKS-ARES&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
   </a>
 </div>
 
