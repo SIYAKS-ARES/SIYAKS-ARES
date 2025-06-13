@@ -65,60 +65,17 @@
 
 ---
 
-### GitHub Metrics
-
-<div align="center">
-  <!-- 
-    Note: The GitHub Metrics card might take a few minutes to load for the first time 
-    as it needs to fetch and process a lot of data. Please be patient.
-  -->
-  <a href="https://github.com/SIYAKS-ARES">
-    <img src="https://metrics.lecoq.io/SIYAKS-ARES?theme=tokyonight&hide_border=true&layout=compact&plugins=languages,isocalendar" alt="GitHub Metrics"/>
-  </a>
-</div>
+### 📊 GitHub Metrics
 
 <div align="center">
   <a href="https://github.com/SIYAKS-ARES">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SIYAKS-ARES&theme=tokyonight" alt="GitHub Profile Summary"/>
-  </a>
-</div>
-
----
-
-### GitHub Metrics
-
-<!-- SEÇENEK 1: Daha basit parametrelerle -->
-<div align="center">
-  <a href="https://github.com/SIYAKS-ARES">
-    <img src="https://metrics.lecoq.io/SIYAKS-ARES?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FIstanbul" alt="GitHub Metrics"/>
-  </a>
-</div>
-
-<!-- SEÇENEK 2: Daha detaylı metrics -->
-<div align="center">
-  <a href="https://github.com/SIYAKS-ARES">
-    <img src="https://metrics.lecoq.io/SIYAKS-ARES?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&plugin.languages=yes&plugin.languages.sections=most-used&plugin.languages.indepth=false&plugin.languages.analysis.timeout=15&plugin.languages.analysis.timeout.repositories=7.5&plugin.languages.categories=markup%2C%20programming&plugin.languages.recent.categories=markup%2C%20programming&plugin.languages.recent.load=300&plugin.languages.recent.days=14&plugin.isocalendar=yes&plugin.isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul" alt="GitHub Metrics"/>
-  </a>
-</div>
-
-<!-- SEÇENEK 3: Alternatif metrics servisi -->
-<div align="center">
-  <a href="https://github.com/SIYAKS-ARES">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SIYAKS-ARES&theme=tokyonight" alt="GitHub Profile Summary"/>
-  </a>
-</div>
-
-<!-- SEÇENEK 4: Contribution Graph -->
-<div align="center">
-  <a href="https://github.com/SIYAKS-ARES">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SIYAKS-ARES&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
   </a>
 </div>
 
 ---
 
 ### 🏆 GitHub Achievements
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SIYAKS-ARES&theme=onestar&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
@@ -126,9 +83,6 @@
 ---
 
 ### 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIYAKS-ARES&theme=react-dark&bg_color=20232a&hide_border=true&line=58a6ff&point=58a6ff&color=58a6ff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
   <a href="https://github.com/SIYAKS-ARES">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=SIYAKS-ARES&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
