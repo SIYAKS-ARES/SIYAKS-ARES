@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ Skills
+###  Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,dart,flutter,firebase,html,css,js,nodejs,mongodb,git&theme=dark" />
@@ -35,7 +35,7 @@
 
 ---
 
-### GitHub Stats
+###  GitHub Stats
 <div align="center">
   <!-- Top Languages Card (Maksimum boyut, boşluklar kapatılmış) -->
   <a href="https://github.com/SIYAKS-ARES">
@@ -65,7 +65,7 @@
 
 ---
 
-### 📊 GitHub Metrics
+###  GitHub Metrics
 
 <div align="center">
   <a href="https://github.com/SIYAKS-ARES">
@@ -75,14 +75,14 @@
 
 ---
 
-### 🏆 GitHub Achievements
+###  GitHub Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SIYAKS-ARES&theme=onestar&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
 
 ---
 
-### 📈 Activity Graph
+###  Activity Graph
 <div align="center">
   <a href="https://github.com/SIYAKS-ARES">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=SIYAKS-ARES&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
@@ -91,7 +91,7 @@
 
 ---
 
-### 🎯 Featured Projects
+###  Featured Projects
 
 **📖 OKUR RADARI – Book Tracking & Recommendation Platform**  
 _A data analysis platform that visualizes personal reading statistics using Kaggle & Jupyter._
@@ -110,7 +110,7 @@ _Mobile app to help users manage personal routines, habits, and self-care (Flutt
 
 ---
 
-### 🧾 Certifications
+###  Certifications
 
 - **AI & Technology Academy** – [Nov 2024]  
   _Skills: NLP, AI, Data Structures, Git, Visualization, Communication, Social Skills_
@@ -124,7 +124,7 @@ _Mobile app to help users manage personal routines, habits, and self-care (Flutt
 
 ---
 
-### 📌 Currently Learning
+###  Currently Learning
 
 - Advanced AI Models & Applications  
 - Data Cleaning & Preprocessing with Python  
@@ -141,7 +141,7 @@ _Mobile app to help users manage personal routines, habits, and self-care (Flutt
 
 ---
 
-### 🌐 Let's Connect
+###  Let's Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/said-huseyinoglu" target="_blank">
