@@ -84,6 +84,39 @@
 
 ---
 
+### GitHub Stats
+
+<div align="center">
+  
+  <!-- Üst Satır: En Çok Kullanılan Diller Kartı (Geniş) -->
+  <a href="https://github.com/SIYAKS-ARES">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAKS-ARES&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=495" alt="En Çok Kullanılan Diller"/>
+  </a>
+  
+  <br><br> <!-- Kartlar arası dikey boşluk -->
+  
+  <!-- Alt Satır: İstatistikler ve Katkı Serisi (Tablo içinde yan yana) -->
+  <table>
+    <tr>
+      <!-- Sol Sütun: Genel GitHub İstatistikleri -->
+      <td valign="top">
+        <a href="https://github.com/SIYAKS-ARES">
+          <img src="https://github-readme-stats.vercel.app/api?username=SIYAKS-ARES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub İstatistikleri"/>
+        </a>
+      </td>
+      <!-- Sağ Sütun: GitHub Katkı Serisi -->
+      <td valign="top">
+        <a href="https://github.com/SIYAKS-ARES">
+          <img src="https://streak-stats.demolab.com/?user=SIYAKS-ARES&theme=tokyonight&hide_border=true" alt="GitHub Katkı Serisi"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+---
+
 ### 🏆 GitHub Achievements
 
 <div align="center">
