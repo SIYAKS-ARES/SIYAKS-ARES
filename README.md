@@ -115,6 +115,25 @@
   
 </div>
 
+<div align="center">
+
+  <!-- 1. GitHub Metrics Paneli -->
+  <!-- Bu panel, aktivite, diller, topluluk etkileşimi gibi birçok metriği birleştirir. -->
+  <a href="https://github.com/SIYAKS-ARES">
+    <img src="https://metrics.lecoq.io/SIYAKS-ARES?theme=tokyonight&hide_border=true&layout=compact&plugins=isocalendar,languages,activity,stars" alt="GitHub Metrics"/>
+  </a>
+  
+  <br><br> <!-- Paneller arası dikey boşluk -->
+
+  <!-- 2. WakaTime Haftalık Kodlama Süresi -->
+  <!-- DİKKAT: Bu kartın çalışması için WakaTime.com'a kaydolup eklentiyi kurmanız gerekir. -->
+  <!-- 'username=SIYAKS-ARES' kısmını kendi WakaTime kullanıcı adınızla değiştirin. -->
+  <a href="https://wakatime.com/@SIYAKS-ARES">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SIYAKS-ARES&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Kodlama Süresi"/>
+  </a>
+  
+</div>
+
 ---
 
 ### 🏆 GitHub Achievements
