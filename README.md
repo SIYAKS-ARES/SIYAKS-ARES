@@ -38,6 +38,10 @@
 ### GitHub Stats
 
 <div align="center">
+ <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAKS-ARES&layout=compact&theme=tokyonight&hide_border=true" />Add commentMore actions
+</div>
+
+<div align="center">
   
   <!-- Üst Satır: En Çok Kullanılan Diller Kartı (Geniş) -->
   <a href="https://github.com/SIYAKS-ARES">
