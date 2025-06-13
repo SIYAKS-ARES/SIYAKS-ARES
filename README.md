@@ -38,15 +38,12 @@
 ---
 
 ### GitHub Stats
-
 <div align="center">
-
-  <!-- Top Languages Card (Slightly larger for better readability) -->
+  <!-- Top Languages Card (Maksimum boyut, boşluklar kapatılmış) -->
   <a href="https://github.com/SIYAKS-ARES">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAKS-ARES&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=636" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAKS-ARES&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&card_width=900&custom_title=Most%20Used%20Languages" alt="Top Languages" style="width: 100%; max-width: 900px;"/>
   </a>
   
-  <br><br> <!-- Vertical space between cards -->
   
   <!-- Bottom Row: General Stats and Streak Stats -->
   <table>
@@ -68,8 +65,6 @@
   
 </div>
 
----
-
 ### GitHub Stats
 
 <div align="center">
@@ -77,8 +72,6 @@
   <a href="https://github.com/SIYAKS-ARES">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAKS-ARES&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&card_width=900&custom_title=Most%20Used%20Languages" alt="Top Languages" style="width: 100%; max-width: 900px;"/>
   </a>
-  
-  <br><br> <!-- Vertical space between cards -->
   
   <!-- Bottom Row: General Stats and Streak Stats -->
   <table>
