@@ -55,7 +55,7 @@
       <!-- GitHub Streak Stats -->
       <td valign="top">
         <a href="https://github.com/SIYAKS-ARES">
-          <img src="https://streak-stats.demolab.com/?user=SIYAKS-ARES&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+          <!-- <img src="https://streak-stats.demolab.com/?user=SIYAKS-ARES&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> -->
           <img src="https://streak-stats.demolab.com/?user=SIYAKS-ARES&theme=tokyonight&hide_border=true&card_width=467" alt="GitHub Streak"/>
         </a>
       </td>
@@ -65,26 +65,26 @@
 </div>
 
 ---
-
+<!--
 ---
 ### 📊 GitHub Stats
 <div align="center">
-  <!-- Top Languages Card -->
+
   <a href="https://github.com/SIYAKS-ARES">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAKS-ARES&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&card_width=900&custom_title=Most%20Used%20Languages" alt="Top Languages" style="width: 100%; max-width: 900px;"/>
   </a>
   
-  <!-- Bottom Row: Stats -->
+
   <table>
     <tr>
-      <!-- General GitHub Stats -->
+
       <td valign="top">
         <a href="https://github.com/SIYAKS-ARES">
           <img src="https://github-readme-stats.vercel.app/api?username=SIYAKS-ARES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
         </a>
       </td>
       
-      <!-- ÇÖZÜM 1: Orijinal Streak Stats (Düzeltilmiş) -->
+
       <td valign="top">
         <a href="https://github.com/SIYAKS-ARES">
           <img src="https://streak-stats.demolab.com/?user=SIYAKS-ARES&theme=tokyonight&hide_border=true&card_width=467" alt="GitHub Streak"/>
@@ -96,7 +96,7 @@
 
 ---
 
-<!-- ÇÖZÜM 2: Alternatif Streak Stats Servisi -->
+
 ### 🔥 Alternative Streak Stats
 <div align="center">
   <a href="https://github.com/SIYAKS-ARES">
@@ -106,7 +106,7 @@
 
 ---
 
-<!-- ÇÖZÜM 3: Kombinasyon - Stats + Streak ayrı ayrı -->
+
 ### 📈 Combined Stats
 <div align="center">
   <table>
@@ -127,22 +127,21 @@
 ---
 ### 📊 GitHub Stats
 <div align="center">
-  <!-- Top Languages Card -->
+
   <a href="https://github.com/SIYAKS-ARES">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAKS-ARES&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&card_width=900&custom_title=Most%20Used%20Languages" alt="Top Languages" style="width: 100%; max-width: 900px;"/>
   </a>
   
-  <!-- Stats Row -->
+
   <table>
     <tr>
-      <!-- General GitHub Stats -->
+
       <td valign="top">
         <a href="https://github.com/SIYAKS-ARES">
           <img src="https://github-readme-stats.vercel.app/api?username=SIYAKS-ARES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
         </a>
       </td>
       
-      <!-- ÇÖZÜM 1: Profile Summary Cards (Streak yerine) -->
       <td valign="top">
         <a href="https://github.com/SIYAKS-ARES">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SIYAKS-ARES&theme=tokyonight" alt="Profile Stats"/>
@@ -154,25 +153,24 @@
 
 ---
 
-<!-- ÇÖZÜM 2: Sadece ana stats, streak yerine trophies -->
+
 ### 📊 GitHub Stats & 🏆 Achievements
 <div align="center">
-  <!-- Top Languages Card -->
+
   <a href="https://github.com/SIYAKS-ARES">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAKS-ARES&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&card_width=900&custom_title=Most%20Used%20Languages" alt="Top Languages" style="width: 100%; max-width: 900px;"/>
   </a>
   
-  <!-- Stats ve Trophies -->
+
   <table>
     <tr>
-      <!-- General GitHub Stats -->
+
       <td valign="top">
         <a href="https://github.com/SIYAKS-ARES">
           <img src="https://github-readme-stats.vercel.app/api?username=SIYAKS-ARES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
         </a>
       </td>
       
-      <!-- GitHub Trophies -->
       <td valign="top">
         <img src="https://github-profile-trophy.vercel.app/?username=SIYAKS-ARES&theme=onestar&no-frame=true&column=3&row=2&margin-w=15&margin-h=15" />
       </td>
@@ -182,18 +180,20 @@
 
 ---
 
-<!-- ÇÖZÜM 3: Temiz ve minimal - sadece çalışan kartlar -->
+
 ### 🚀 Minimal & Clean
 <div align="center">
-  <!-- Top Languages -->
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAKS-ARES&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&card_width=900&custom_title=Most%20Used%20Languages" alt="Top Languages" style="width: 100%; max-width: 900px;"/>
   
   <br>
   
-  <!-- GitHub Stats -->
+  
   <img src="https://github-readme-stats.vercel.app/api?username=SIYAKS-ARES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </div>
 ---
+-->
+
 
 ###  GitHub Metrics
 
