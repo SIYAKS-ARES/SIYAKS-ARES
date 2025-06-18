@@ -65,6 +65,64 @@
 
 ---
 
+---
+### 📊 GitHub Stats
+<div align="center">
+  <!-- Top Languages Card -->
+  <a href="https://github.com/SIYAKS-ARES">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAKS-ARES&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&card_width=900&custom_title=Most%20Used%20Languages" alt="Top Languages" style="width: 100%; max-width: 900px;"/>
+  </a>
+  
+  <!-- Bottom Row: Stats -->
+  <table>
+    <tr>
+      <!-- General GitHub Stats -->
+      <td valign="top">
+        <a href="https://github.com/SIYAKS-ARES">
+          <img src="https://github-readme-stats.vercel.app/api?username=SIYAKS-ARES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+        </a>
+      </td>
+      
+      <!-- ÇÖZÜM 1: Orijinal Streak Stats (Düzeltilmiş) -->
+      <td valign="top">
+        <a href="https://github.com/SIYAKS-ARES">
+          <img src="https://streak-stats.demolab.com/?user=SIYAKS-ARES&theme=tokyonight&hide_border=true&card_width=467" alt="GitHub Streak"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- ÇÖZÜM 2: Alternatif Streak Stats Servisi -->
+### 🔥 Alternative Streak Stats
+<div align="center">
+  <a href="https://github.com/SIYAKS-ARES">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIYAKS-ARES&theme=tokyonight&hide_border=true" alt="GitHub Streak Alternative"/>
+  </a>
+</div>
+
+---
+
+<!-- ÇÖZÜM 3: Kombinasyon - Stats + Streak ayrı ayrı -->
+### 📈 Combined Stats
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=SIYAKS-ARES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIYAKS-ARES&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
+</div>
+---
+
 ###  GitHub Metrics
 
 <div align="center">
