@@ -1,14 +1,15 @@
 <h1 align="center">Hello , I'm Mehmet Said Hüseyinoğlu</h1>
 
-<h3 align="center">Software Engineering Student | Data Scientist & AI Specialist</h3>
+<h3 align="center">Software Engineer | Data Scientist & AI Specialist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Learning+AI+%26+Data+Science;Building+Real+World+Projects;Lifelong+Learner+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SIYAKS-ARES&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SIYAKS-ARES&color=green&style=flat-square" alt="Profile Views" />
 </div>
+<!--0e75b6-->
 
 <!--
 <div align="center">
