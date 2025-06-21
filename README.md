@@ -10,6 +10,12 @@
   <img src="https://komarev.com/ghpvc/?username=SIYAKS-ARES&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
 
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{SIYAKS-ARES}/count.svg" /></p> 
+  <br>
+</div>
+
 ---
 
 ###  About Me
