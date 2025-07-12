@@ -170,8 +170,8 @@
 </div>
 
 <div align="center">  
-  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SIYAKS-ARES&theme=tokyonight" alt="Top Languages per Repo"/>
-  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SIYAKS-ARES&theme=tokyonight" alt="Top Languages per Commit"/>
+  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SIYAKS-ARES&theme=tokyonight&hide_border=true" alt="Top Languages per Repo"/>
+  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SIYAKS-ARES&theme=tokyonight&hide_border=true&card_width=467" alt="Top Languages per Commit"/>
 </div>
 
 ---
