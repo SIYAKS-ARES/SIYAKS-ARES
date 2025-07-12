@@ -97,14 +97,13 @@
 ---
 ### 📊 GitHub Stats
 
+<!--
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SIYAKS-ARES&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/SIYAKS-ARES">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=SIYAKS-ARES&data=followers,repositories,stars,commits&theme=dark&avatar_size=120" alt="GitHub WidgetBox" width="100%" />
+  </a>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIYAKS-ARES&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
+-->
 <div align="center">
   <!-- Top Languages Card -->
   <a href="https://github.com/SIYAKS-ARES">
