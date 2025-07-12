@@ -165,7 +165,7 @@
 
 <div align="center">
   <a href="https://github.com/SIYAKS-ARES">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SIYAKS-ARES&theme=tokyonight" alt="GitHub Profile Summary"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SIYAKS-ARES&theme=tokyonight" alt="GitHub Profile Summary" style="width: 100%; max-width: 900px;"/>
   </a>
 </div>
 
