@@ -96,22 +96,14 @@
 
 ---
 ### 📊 GitHub Stats
-
-<!--
+###  GitHub Stats
 <div align="center">
+  <!-- Top Languages Card (Maksimum boyut, boşluklar kapatılmış) -->
   <a href="https://github.com/SIYAKS-ARES">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=SIYAKS-ARES&data=followers,repositories,stars,commits&theme=dark&avatar_size=120" alt="GitHub WidgetBox" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAKS-ARES&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&card_width=900&custom_title=Most%20Used%20Languages" alt="Top Languages" style="width: 100%; max-width: 900px;"/>
   </a>
-</div>
--->
-<div align="center">
-  <!-- Top Languages Card -->
-  <a href="https://github.com/SIYAKS-ARES">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAKS-ARES&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500&custom_title=Most%20Used%20Languages" alt="Top Languages" width="500"/>
-  </a>
-</div>
-
-<div align="center">
+  
+  
   <!-- Bottom Row: General Stats and Streak Stats -->
   <table>
     <tr>
@@ -124,13 +116,49 @@
       <!-- GitHub Streak Stats -->
       <td valign="top">
         <a href="https://github.com/SIYAKS-ARES">
+          <!-- <img src="https://streak-stats.demolab.com/?user=SIYAKS-ARES&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> -->
+          <img src="https://streak-stats.demolab.com/?user=SIYAKS-ARES&theme=tokyonight&hide_border=true&card_width=467" alt="GitHub Streak"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+<!--
+<div align="center">
+  <a href="https://github.com/SIYAKS-ARES">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=SIYAKS-ARES&data=followers,repositories,stars,commits&theme=dark&avatar_size=120" alt="GitHub WidgetBox" width="100%" />
+  </a>
+</div>
+
+<div align="center">
+  Top Languages Card 
+  <a href="https://github.com/SIYAKS-ARES">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAKS-ARES&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500&custom_title=Most%20Used%20Languages" alt="Top Languages" width="500"/>
+  </a>
+</div>
+
+<div align="center">
+   Bottom Row: General Stats and Streak Stats 
+  <table>
+    <tr>
+       General GitHub Stats 
+      <td valign="top">
+        <a href="https://github.com/SIYAKS-ARES">
+          <img src="https://github-readme-stats.vercel.app/api?username=SIYAKS-ARES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+        </a>
+      </td>
+       GitHub Streak Stats 
+      <td valign="top">
+        <a href="https://github.com/SIYAKS-ARES">
           <img src="https://streak-stats.demolab.com/?user=SIYAKS-ARES&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
         </a>
       </td>
     </tr>
   </table>
 </div>
-
+-->
 ---
 
 ### 📈 GitHub Metrics
