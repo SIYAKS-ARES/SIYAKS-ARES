@@ -99,34 +99,7 @@
 
 <div align="center">
   <a href="https://github.com/SIYAKS-ARES">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=SIYAKS-ARES&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/SIYAKS-ARES">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIYAKS-ARES&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="400"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/SIYAKS-ARES">
-    <img src="https://github-readme-stats.vercel.app/api?username=SIYAKS-ARES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400"/>
-  </a>
-  <a href="https://github.com/SIYAKS-ARES">
-    <img src="https://streak-stats.demolab.com/?user=SIYAKS-ARES&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
-  </a>
-</div>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/SIYAKS-ARES">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=SIYAKS-ARES&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" />
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=SIYAKS-ARES&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="100%" />
   </a>
 </div>
 
