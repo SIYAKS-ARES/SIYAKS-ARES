@@ -160,20 +160,31 @@
 </div>
 -->
 ---
-
 ### 📈 GitHub Metrics
-
 <div align="center">
+  <!-- Profile Summary Card (Full width) -->
   <a href="https://github.com/SIYAKS-ARES">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SIYAKS-ARES&theme=tokyonight" alt="GitHub Profile Summary" style="width: 100%; max-width: 900px;"/>
   </a>
+  
+  <!-- Bottom Row: Language Stats -->
+  <table>
+    <tr>
+      <!-- Top Languages per Repo -->
+      <td valign="top">
+        <a href="https://github.com/SIYAKS-ARES">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SIYAKS-ARES&theme=tokyonight&hide_border=true" alt="Top Languages per Repo"/>
+        </a>
+      </td>
+      <!-- Top Languages per Commit -->
+      <td valign="top">
+        <a href="https://github.com/SIYAKS-ARES">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SIYAKS-ARES&theme=tokyonight&hide_border=true" alt="Top Languages per Commit"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<div align="center">  
-  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SIYAKS-ARES&theme=tokyonight&hide_border=true" alt="Top Languages per Repo"/>
-  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SIYAKS-ARES&theme=tokyonight&hide_border=true&card_width=467" alt="Top Languages per Commit"/>
-</div>
-
 ---
 
 ### 🏆 GitHub Achievements
