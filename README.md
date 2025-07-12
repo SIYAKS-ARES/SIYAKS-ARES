@@ -99,7 +99,7 @@
 
 <div align="center">
   <a href="https://github.com/SIYAKS-ARES">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=SIYAKS-ARES&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%" />
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=SIYAKS-ARES&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="100%" height="30%" />
   </a>
 </div>
 
