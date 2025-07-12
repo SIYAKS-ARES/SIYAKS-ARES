@@ -97,10 +97,12 @@
 ---
 ### 📊 GitHub Stats
 
-<div align="center" style="margin: 20px 0;">
-  <a href="https://github.com/SIYAKS-ARES">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=SIYAKS-ARES&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" style="max-width: 100%; height: auto;" />
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SIYAKS-ARES&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIYAKS-ARES&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
