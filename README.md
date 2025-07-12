@@ -97,9 +97,9 @@
 ---
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
   <a href="https://github.com/SIYAKS-ARES">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=SIYAKS-ARES&data=followers,repositories,stars,commits&theme=dark&avatar_size=120" alt="GitHub WidgetBox" width="100%" />
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=SIYAKS-ARES&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" style="max-width: 100%; height: auto;" />
   </a>
 </div>
 
