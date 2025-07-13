@@ -97,7 +97,6 @@
 ---
 
 ###  GitHub Stats
-###  GitHub Stats
 <div align="center">
   <!-- Top Languages Card (Maksimum boyut, boşluklar kapatılmış) -->
   <a href="https://github.com/SIYAKS-ARES">
