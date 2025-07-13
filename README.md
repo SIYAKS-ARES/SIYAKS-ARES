@@ -224,7 +224,7 @@
         </a>
       </td>
       <td align="center" width="50%">
-        <a href="https://www.hackerrank.com/profile/SIYAKSARES">
+        <a href="https://www.hackerrank.com/SIYAKSARES">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=SIYAKS-ARES&repo=competitive-programming&theme=tokyonight&hide_border=true" alt="HackerRank" />
         </a>
       </td>
