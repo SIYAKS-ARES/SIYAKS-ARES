@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 - 🎓 3rd-year **Software Engineering** student at Fırat University  
 - 🌍 Studied in **Poland** with Erasmus+ Program — developed academic & cultural skills  
@@ -23,7 +23,7 @@
 
 ---
 
-### 💻 Skills
+###  Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,dart,flutter,firebase,html,css,js,nodejs,mongodb,git&theme=dark" />
@@ -35,7 +35,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
   <table>
@@ -96,7 +96,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 ###  GitHub Stats
 <div align="center">
   <!-- Top Languages Card (Maksimum boyut, boşluklar kapatılmış) -->
@@ -163,7 +163,7 @@
 
 ---
 
-### 📈 GitHub Metrics
+###  GitHub Metrics
 <div align="center">
   <!-- Profile Summary Card (Full width) -->
   <a href="https://github.com/SIYAKS-ARES">
@@ -191,7 +191,7 @@
 
 ---
 
-### 🏆 GitHub Achievements
+###  GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SIYAKS-ARES&theme=onestar&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
@@ -203,7 +203,7 @@
 
 ---
 
-### 📊 Activity Graph
+###  Activity Graph
 
 <div align="center">
   <a href="https://github.com/SIYAKS-ARES">
@@ -213,7 +213,7 @@
 
 ---
 
-### 💻 Coding Platforms
+###  Coding Platforms
 
 <div align="center">
   <table>
@@ -234,7 +234,7 @@
 
 ---
 
-### 🌟 Featured Projects
+###  Featured Projects
 
 **📖 OKUR RADARI – Book Tracking & Recommendation Platform**  
 _A data analysis platform that visualizes personal reading statistics using Kaggle & Jupyter._
@@ -253,7 +253,7 @@ _Mobile app to help users manage personal routines, habits, and self-care (Flutt
 
 ---
 
-### 🏅 Certifications
+###  Certifications
 
 - **AI & Technology Academy** – [Nov 2024]  
   _Skills: NLP, AI, Data Structures, Git, Visualization, Communication, Social Skills_
