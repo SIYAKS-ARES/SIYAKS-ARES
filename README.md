@@ -22,19 +22,15 @@
 - 📫 Reach me at: **msaidhuseyinoglu@gmail.com**
 
 ---
-
+<!--
 ###  Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,dart,flutter,firebase,html,css,js,nodejs,mongodb,git&theme=dark" />
 </div>
 
-**Languages & Frameworks:** `Python` `C#` `Java` `Flutter` `Firebase` `HTML` `CSS` `JavaScript` `Node.js`  
-**Data & AI:** `Data Cleaning` `Data Visualization` `Machine Learning` `NLP` `Jupyter Notebook`  
-**Tools & Methods:** `MongoDB` `Docker` `PostgreSQL` `Git` `MVC Pattern` `Project Management` `Team Leadership` `Agile` `Scrum`
-
 ---
-
+-->
 ###  Tech Stack
 
 <div align="center">
@@ -93,6 +89,10 @@
     </tr>
   </table>
 </div>
+
+**Languages & Frameworks:** `Python` `C#` `Java` `Flutter` `Firebase` `HTML` `CSS` `JavaScript` `Node.js`  
+**Data & AI:** `Data Cleaning` `Data Visualization` `Machine Learning` `NLP` `Jupyter Notebook`  
+**Tools & Methods:** `MongoDB` `Docker` `PostgreSQL` `Git` `MVC Pattern` `Project Management` `Team Leadership` `Agile` `Scrum`
 
 ---
 
