@@ -222,11 +222,13 @@
           <img src="https://leetcard.jacoblin.cool/SIYAKSARES?theme=unicorn&font=Almarai&ext=contest" alt="LeetCode Stats"/>
         </a>
       </td>
-      <td align="center" width="50%">
+      <!--
+<td align="center" width="50%">
         <a href="https://www.hackerrank.com/SIYAKSARES">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=SIYAKS-ARES&repo=competitive-programming&theme=tokyonight&hide_border=true" alt="HackerRank" />
         </a>
       </td>
+      -->
     </tr>
   </table>
 </div>
