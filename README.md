@@ -3,7 +3,9 @@
 <h3 align="center">Software Engineer | Data Scientist & AI Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Learning+AI+%26+Data+Science;Building+Real+World+Projects;Lifelong+Learner+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+  <!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Learning+AI+%26+Data+Science;Building+Real+World+Projects;Lifelong+Learner+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />-->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Solving+Problems+with+Data+%26+AI;Building+Real+World+Projects;Lifelong+Learner+%E2%9C%8C%EF%B8%8F" />
+
 </p>
 
 <div align="center">
