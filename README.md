@@ -16,7 +16,7 @@
 
 ###  About Me
 
-- 🎓 3rd-year **Software Engineering** student at Fırat University  
+- 🎓 **Software Engineering** at Fırat University  
 - 🌍 Studied in **Poland** with Erasmus+ Program — developed academic & cultural skills  
 - 🤖 Passionate about **Artificial Intelligence** and **Data Science**, currently improving through academies, projects & internships
 - 🛠 Actively working in **Teknofest R&D Committee** – improving leadership and communication  
