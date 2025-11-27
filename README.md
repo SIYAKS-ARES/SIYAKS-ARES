@@ -16,12 +16,12 @@
 
 ###  About Me
 
-- 🎓 **Software Engineering** at Fırat University  
-- 🌍 Studied in **Poland** with Erasmus+ Program — developed academic & cultural skills  
-- 🤖 Passionate about **Artificial Intelligence** and **Data Science**, currently improving through academies, projects & internships
-- 🛠 Actively working in **Teknofest R&D Committee** – improving leadership and communication  
-- 🚀 Open to collaboration on AI/Data projects, social impact platforms 
-- 📫 Reach me at: **msaidhuseyinoglu@gmail.com**
+-  **Software Engineering** at Fırat University  
+-  Studied in **Poland** with Erasmus+ Program — developed academic & cultural skills  
+-  Passionate about **Artificial Intelligence** and **Data Science**, currently improving through academies, projects & internships
+-  Actively working in **Teknofest R&D Committee** – improving leadership and communication  
+-  Open to collaboration on AI/Data projects, social impact platforms 
+-  Reach me at: **msaidhuseyinoglu@gmail.com**
 
 ---
 
@@ -75,7 +75,7 @@ _Mobile app to help users manage personal routines, habits, and self-care (Flutt
 
 ---
 
-### 🤝 Let's Connect
+###  Let's Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/said-huseyinoglu" target="_blank">
