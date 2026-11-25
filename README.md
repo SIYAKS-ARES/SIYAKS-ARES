@@ -44,10 +44,10 @@
 
 **Computer Vision & Deep Learning Intern** | NeviTech, Istanbul  
 *July 2025 – September 2025 (Full-time)*
-- Developed a real-time Turkish Sign Language translation system using Transformer-based Deep Learning
-- Engineered a data pipeline with Selenium web scrapers and benchmark datasets (AULTS, BosphorusSign)
+- Developed a real-time [Turkish Sign Language translation system](https://github.com/SIYAKS-ARES/sign-transcriber) using Transformer-based Deep Learning
+- Engineered a data pipeline with Selenium web scrapers and benchmark datasets (AUTSL, BosphorusSign)
 - Integrated LLM-based models with RAG for natural, context-aware translations
-- Extended the work into the CODA senior capstone project
+- Extended the work into the [CODA](https://github.com/SIYAKS-ARES/sign-transcriber) senior capstone project
 
 ---
 
@@ -63,7 +63,7 @@
 
 ### Featured Projects
 
-**CODA – Transformer-Based Turkish Sign Language Recognition** (Graduation Project)  
+**[CODA – Transformer-Based Turkish Sign Language Recognition](https://github.com/SIYAKS-ARES/sign-transcriber)** (Graduation Project)  
 *Transformer architecture for real-time sign language translation using PyTorch, MediaPipe, and LLM post-processing with RAG workflows*
 
 **SMARTDOC INSIGHT – AI-Powered Document Analysis Platform**  
